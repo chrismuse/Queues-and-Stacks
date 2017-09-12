@@ -2,8 +2,6 @@
  * Your implementation of an array-backed queue.
  *
  * @author Christopher Muse
- * @userid cmuse7
- * @GTID 903104255
  * @version 1.0
  */
 public class ArrayQueue<T> implements QueueInterface<T> {

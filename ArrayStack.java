@@ -2,8 +2,6 @@
  * Your implementation of an array-backed stack.
  *
  * @author Christopher Muse
- * @userid cmuse7
- * @GTID 903104255
  * @version 1.0
  */
 public class ArrayStack<T> implements StackInterface<T> {

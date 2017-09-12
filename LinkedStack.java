@@ -2,8 +2,6 @@
  * Your implementation of a linked stack.
  *
  * @author Christopher Muse
- * @userid cmuse7
- * @GTID 903104255
  * @version 1.0
  */
 public class LinkedStack<T> implements StackInterface<T> {
