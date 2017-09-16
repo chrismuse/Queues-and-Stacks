@@ -41,7 +41,7 @@ public class LinkedQueue<T> implements QueueInterface<T> {
             tail = head;
             size++;
         } else {
-            LinkedNode<T> adder = new LinkedNode(data, null);
+            LinkedNode<T> adder = new LinkedNode<T>(data, null);
             tail.setNext(adder);
             tail = adder;
             size++;
